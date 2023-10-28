@@ -18,9 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by:DEVESH S
+#RegisterNumber:23004345
+
+a=input()
+b=input()
+print('Swapped values are: {} {}'.format(b,a))
 
 
-
+```
+## OUTPUT:
+![output](output.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
